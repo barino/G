@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-13:41:12	4837/4837	---MCZ	200	added ('OK')	text/html	etag:W/%22cb1e641190226d5abb6629af1b35f73f%22	https://previews.customer.envatousercontent.com/files/303715223/index.html	C:/My%20Web%20Sites/222/previews.customer.envatousercontent.com/files/303715223/index.html	(from )
-13:41:12	109/109	---M--	200	added ('OK')	text/plain	etag:%22a5d73771bc6bf82e6cec25c3abc509b4%22	https://previews.customer.envatousercontent.com/robots.txt		(from )
